@@ -3,3 +3,4 @@ db_password: 111111  # 替换为你的数据库密码
 db_host: 192.168.10.207  # 替换为你的数据库主机地址
 db_port: 3306  # 通常是3306
 db_name: yuting_study  # 替换为你的数据库名称
+table_name: mouth_gatherwater_db
